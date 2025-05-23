@@ -45,5 +45,5 @@ function isinCizgiKesisim(
 }
 ```
 
-_Işığın yansıma ilkesini kullanarak yaptığım bir web oyununa favicon oluşturur musun?_
+_Işığın yansıma ilkesini kullanarak yaptığım bir web oyununa favicon oluşturur musun?_\
 **Mevcut favicon.ico'yu oluşturdu.**
