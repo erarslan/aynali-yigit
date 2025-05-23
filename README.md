@@ -2,6 +2,8 @@
 
 Işığı aynalarla yansıtarak hedefe ulaştırmaya dayalı eğlenceli bir fizik oyunu!
 
+## 🎮 [Oyunu Şimdi Oyna!](https://erarslan.github.io/aynali-yigit/)
+
 ![Oyun Başlangıç Ekranı](https://i.imgur.com/2kycwRA.png)
 
 ## 🎬 Oynanış ve Tanıtım Videosu
