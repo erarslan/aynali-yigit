@@ -80,7 +80,7 @@ Tüm 5 seviyeyi başarıyla tamamladığınızda:
 
 ### Fizik Motoru
 
-- Gerçek zamanlı ışık ray tracing
+- Gerçek zamanlı ışın izleme
 - Ayna yansıma hesaplamaları
 - Çarpışma tespiti (oyuncu-engeller ve oyuncu-aynalar)
 - Geometrik kesişim algoritmaları
