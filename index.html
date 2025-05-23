@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Aynalı Yiğit 🛡️</title>
+    <link rel="stylesheet" href="style.css" />
+    <link rel="shortcut icon" href="assets/favicon.ico" type="image/x-icon" />
+  </head>
+  <body>
+    <div class="game-container">
+      <div id="game-info">
+        <div id="level-info">Seviye: <span id="level-number">1</span>/5</div>
+        <div id="music-info">Müzik: <span id="music-status">Açık</span></div>
+        <div id="controls-info">
+          <h3>Oyun Kontrolleri:</h3>
+          <ul>
+            <li>Hareket: W (yukarı), S (aşağı), A (sol), D (sağ)</li>
+            <li>Ayna döndürme: ← Sol yön tuşu, → Sağ yön tuşu</li>
+            <li>Müzik aç/kapat: M</li>
+          </ul>
+        </div>
+        <div id="game-description">
+          <h3>Nasıl Oynanır:</h3>
+          <p>
+            Işık kaynağından çıkan ışını aynalarla yönlendirerek kırmızı hedefe
+            ulaştır. Işın hedefe yeterince uzun süre ulaşırsa seviyeyi
+            tamamlarsın!
+          </p>
+        </div>
+      </div>
+      <canvas id="gameCanvas" width="800" height="600"></canvas>
+    </div>
+    <script src="game.js"></script>
+  </body>
+</html>
