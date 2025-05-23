@@ -10,7 +10,7 @@ const muzik = new Audio(
   "assets/Daft Punk - Horizon (Japan CD) (Official Audio).mp3"
 );
 muzik.loop = true;
-muzik.volume = 0.3;
+muzik.volume = 0.2;
 let muzikAcik = true;
 
 //İlerleme sesi
